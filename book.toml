@@ -1,9 +1,0 @@
-book]
-authors = ["yanboishere"]
-language = "zh-cn"
-multilingual = false
-src = "src"
-title = "JLUBA Website"
-
-[output.html.playground]
-runnable = false
